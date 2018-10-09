@@ -12,7 +12,7 @@ import LinkEditing from './linkediting';
 import LinkUI from './linkui';
 
 /**
- * The link plugin.
+ * The link plugin. Some change.
  *
  * This is a "glue" plugin which loads the {@link module:link/linkediting~LinkEditing link editing feature}
  * and {@link module:link/linkui~LinkUI link UI feature}.
